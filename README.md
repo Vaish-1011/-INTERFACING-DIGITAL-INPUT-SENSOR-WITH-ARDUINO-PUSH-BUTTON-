@@ -83,7 +83,7 @@ void loop()
  
 ## OUTPUT OF SIMULATION :
 ![image](https://github.com/Vaish-1011/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/135130074/e365a95e-55b5-4ea7-be36-35e866c4dc90)
-![image](https://github.com/Vaish-1011/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/135130074/3fabca7d-1ec5-4a3c-a8b4-f7f465d676e7)
+![image](https://github.com/Vaish-1011/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/135130074/9f6471bb-7c34-480e-99e4-77e1884eddad)
 
 [My image](username.github.com/repository/img/image.jpg)
 
