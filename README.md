@@ -85,5 +85,11 @@ void loop()
 ![image](https://github.com/Vaish-1011/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/135130074/e365a95e-55b5-4ea7-be36-35e866c4dc90)
 ![image](https://github.com/Vaish-1011/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/135130074/9f6471bb-7c34-480e-99e4-77e1884eddad)
 
-[My image](username.github.com/repository/img/image.jpg)
+
+
+
+## RESULT :
+Thus the interface of a digital input (push button) and blink and LED upon activation is performed
+.
+
 
